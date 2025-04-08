@@ -1,13 +1,29 @@
-# React + Vite
+💼 Personal Portfolio Website
+A modern and responsive portfolio website built using React to showcase my skills, projects, <br> and personal profile. Designed with a focus on clean UI, smooth user experience, and professional presentation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔥 Features:
+About Me section with professional info <br>
 
-Currently, two official plugins are available:
+Projects section with live demo and GitHub links <br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Skills & Technologies overview <br>
 
-## Expanding the ESLint configuration
+Contact form or contact details <br>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# forhad-portfolio
+Fully responsive (mobile & desktop support) <br>
+
+Smooth animations and transitions <br>
+
+🛠️ Technologies Used: <br>
+React.js <br>
+
+HTML5 & CSS3 <br>
+
+JavaScript (ES6+) <br>
+
+Tailwind CSS / Bootstrap (mention what you used) <br>
+
+Framer Motion / AOS (if used for animations) <br>
+
+🌐 Live Site: <br>
+https://your-username.github.io/your-portfolio
