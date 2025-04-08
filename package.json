@@ -1,5 +1,5 @@
 {
-  "homepage": "https://msforhad.github.io/forhad-portfolio",
+  "homepage": "https://msforhad.github.io/forhad-portfolio/",
   "name": "forhad-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -11,8 +11,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-  }
-  ,
+  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
